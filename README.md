@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shanmugavalli15
-- 👀 I’m interested in singing
-- 🌱 I’m currently learning c programming
-- 💞️ I’m looking to collaborate on google
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JS,react js
+- 💞️ I’m looking to collaborate on product based companies
 - 📫 How to reach me shannuvalli1504@gmail.com
 
 <!---
